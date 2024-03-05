@@ -1,5 +1,22 @@
 # AngularComparePrices
 
+## Application Design
+
+I used angular to display, search and filter the data in a user-friendly way using those HTTP requests and Typescript.Thus,I used html and css to structure and beauty the web page created.
+
+The Angular front-end application has 2 search functionalities :
+
+You can search for a phone by writing its title in the search bar or by selecting the desired phone from combo boxes .If the searched phone exists on at least one of the three websites, the details of the phone will apear on the page. 
+
+![image](https://github.com/compare-prices-app/frontend-compare-prices-app/assets/92376799/8a0d0b46-14cc-439f-81fb-29716544dd4d)
+
+
+
+
+![image](https://github.com/compare-prices-app/frontend-compare-prices-app/assets/92376799/9faceca7-6647-4401-acc8-36af61a3d4ef)
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
 ## Development server
